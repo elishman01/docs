@@ -1,2 +1,2 @@
-# docs
- 
+# localNewsEventApp
+local news in the county
